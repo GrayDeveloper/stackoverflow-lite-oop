@@ -6,10 +6,10 @@ Git clone the repo using https://github.com/GrayDeveloper/stackoverflow-lite-oop
 
 Make a PR for review where necessary.
 
-Author
+## Author
 * **Ayub** - *Initial work* - [graydeveloper](https://github.com/graydeveloper)
 
-Licence
+## Licence
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
